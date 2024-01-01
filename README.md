@@ -1,2 +1,2 @@
 # java-basics
-These are the basic programs of java programming
+These are the basic programs of java programming.
